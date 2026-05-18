@@ -122,3 +122,10 @@ O projeto implementa atualmente o **payment service**, mas a estrutura reflete c
 | Serviço | Repositório |
 |---|---|
 | Pagamentos | [event-master-payment-service](https://github.com/Grupo-3-ADA/event-master-payment-service) |
+
+---
+
+## Autores
+
+- Alexandre Della Mônica Moreira
+- Daniela A. Fontana
